@@ -45,7 +45,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/martin226/Twirl.git
+   git clone https://github.com/ShubhamKrishna0/Twirl.git
    cd Twirl
    ```
    
